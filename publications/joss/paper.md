@@ -80,7 +80,7 @@ extract physical information, such as atmospheric temperature, metallicity, carb
 [@line2014systematic; @Iyer2023Sphinx; @Marley2015]. These atmospheric models rely on generating the physics and chemistry of these atmospheres for a wide range of thermal structures 
 and compositions. In addition to Bayesian-based techniques, machine learning and deep learning methods have been developed in recent years 
 for various astronomical problems, including confirming the classification of light curves for 
-exoplanet validation [e.g., @Valizadegan2021], recognizing molecular features  [@Zingales2018ExoGAN] as well as interpreting brown dwarfs spectra using Random Forest technique 
+exoplanet validation [e.g., @Valizadegan2022], recognizing molecular features  [@Zingales2018ExoGAN] as well as interpreting brown dwarfs spectra using Random Forest technique 
 [e.g., @Lueber2023RandomForesr_BDs]. Here, we present one of the first applications of deep learning and convolutional neural networks on the interpretation of brown dwarf 
 atmospheric datasets. The configuration of a CNN and the key concepts can be found in [@Goodfellow_2016DeepLearning; @KIRANYAZ2021].
 
@@ -199,7 +199,7 @@ The following open-source tools are available to either perform forward modeling
 [`POSEIDON`](https://github.com/MartianColonist/POSEIDON) [@MacDonald2023],
 [`PLATON`](https://github.com/ideasrule/platon) [@Zhang2019], 
 [`CHIMERA`](https://github.com/mrline/CHIMERA) [@Line2013], 
-[`TauRex`](https://github.com/ucl-exoplanets/TauREx3_public) [Waldmann2015],
+[`TauRex`](https://github.com/ucl-exoplanets/TauREx3_public) [@Waldmann2015],
 [`NEMESIS`](https://github.com/nemesiscode/radtrancode) [@Irwin2008], and 
 [`Pyrat Bay`](https://github.com/pcubillos/pyratbay) [@Cubillos2021].
 
